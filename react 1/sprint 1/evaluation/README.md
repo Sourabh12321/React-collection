@@ -1,5 +1,4 @@
 ## React Groceries List
-## Problem Link :- https://cp.masaischool.com/assignments/1046/pi/2/solve#description
 
 ### Submission Instructions [Please note]
 

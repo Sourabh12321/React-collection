@@ -1,7 +1,7 @@
 ## React Mini Book Store
 
 Create a Mini Book Store in React
-Problem link :- https://cp.masaischool.com/assignments/1030/pi/1/solve#description
+
 
 ## Tags
 
