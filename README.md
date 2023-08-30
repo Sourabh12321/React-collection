@@ -1,2 +1,2 @@
 # React-collection
-React data
+React Data
